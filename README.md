@@ -1,5 +1,6 @@
 # belly-button-challenge
 Building an interactive dashboard to explore the Belly Button Biodiversity dataset.
+Link to GitHub Page: https://denisem77.github.io/belly-button-challenge/
 
 Use the D3 library to read in samples.json from the URL https://static.bc-edx.com/data/dl-1-2/m14/lms/starter/samples.json.
 
